@@ -60,4 +60,4 @@ Experienced Sr. Software Development Analyst at Deloitte with expertise in .Net,
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sriyanshjain&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/sriyansh-jain-35b876157/) or [GitHub](https://github.com/Sriyanshjain)! 🌐
-Download my resume here ⬇ [Resume](https://drive.google.com/file/d/1YcfthX6FyrwNqXoonkPfqw4DFpC1fGLd/view?usp=drive_link)
+Download my resume here ⬇ [Resume](https://drive.google.com/file/d/1_DSmpM6H6M7Ze123kZg3fgW_qT4YJoQI/view?usp=drivesdk)
