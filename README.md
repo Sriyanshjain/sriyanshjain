@@ -56,5 +56,8 @@ Experienced Sr. Software Development Analyst at Deloitte with expertise in .Net,
 - Winner of Hackslam: Deloitte's firmwide hackathon.
 - Applause Award: Exceptional performance in the 5.5 release.
 
+<!--![](https://leetcard.jacoblin.cool/Sriyanshjain1997?animation=false)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sriyanshjain&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/sriyansh-jain-35b876157/) or [GitHub](https://github.com/Sriyanshjain)! 🌐
 Download my resume here ⬇ [Resume](https://drive.google.com/file/d/1YcfthX6FyrwNqXoonkPfqw4DFpC1fGLd/view?usp=drive_link)
