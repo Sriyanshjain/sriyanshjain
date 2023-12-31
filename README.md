@@ -20,6 +20,14 @@ Experienced Sr. Software Development Analyst at Deloitte with expertise in .Net,
 - Utilized live Swiggy API for location-aware features.
 - Designed a visually stunning Shimmer UI and implemented features like cart, restaurant menu, and search filters.
 
+#### [NetflixGPT](https://netflix-gpt-kappa-nine.vercel.app/) 🎬
+- Movie app (Netflix clone) developed with React, Tailwind CSS, and Redux.
+- Utilized live TMDB API for latest data.
+- Firebase for Authentication.
+- OpenAI API integrated to give movie suggestions according to mood of the user.
+- Redux for state management.
+
+
 #### BlueMind Client Portal 💼
 - Developed a Greetings component in React for client communication.
 - Improved responsiveness via media queries and resolved critical bugs.
@@ -33,10 +41,10 @@ Experienced Sr. Software Development Analyst at Deloitte with expertise in .Net,
 - PostgreSQL, MySQL, Redis Cache
 
 ### Libraries/Frameworks
-- React, Angular, Redux, HTML & CSS, JQuery, Jest, Material-UI, Tailwind CSS
+- React, Angular, Redux, HTML & CSS,Firebase, JQuery, Jest, Material-UI, Tailwind CSS
 
 ### Tools/Platforms
-- GitHub, Azure DevOps, VS Code, Postman, CI/CD
+- GitHub, Azure DevOps, VS Code, Postman, CI/CD, Azure OpenAI
 
 ## Education 📚
 
