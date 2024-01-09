@@ -4,7 +4,7 @@
 
 ## Summary 🌟
 
-Experienced Sr. Software Development Analyst at Deloitte with expertise in .Net, Angular, SQL, and Azure. Proven track record of developing and maintaining high-impact applications. Winner of Deloitte's Hackslam and recipient of the Applause Award.
+Experienced Sr. Software Development Analyst at Deloitte with expertise in Javascript,React,Angular,Java,Redux and styling libraries like TailwindCSS . Proven track record of developing and maintaining high-impact applications. Winner of Deloitte's Hackslam and recipient of the Applause Award.
 
 ## Experience 💼
 
@@ -19,13 +19,15 @@ Experienced Sr. Software Development Analyst at Deloitte with expertise in .Net,
 - Food delivery app (Swiggy clone) developed with React, Tailwind CSS, and Redux.
 - Utilized live Swiggy API for location-aware features.
 - Designed a visually stunning Shimmer UI and implemented features like cart, restaurant menu, and search filters.
+- Equipped with fallback APIs
 
 #### [NetflixGPT](https://netflix-gpt-kappa-nine.vercel.app/) 🎬
-- Movie app (Netflix clone) developed with React, Tailwind CSS, and Redux.
+- Movie app (Netflix clone) developed with React, Tailwind CSS, Redux and Firebase.
 - Utilized live TMDB API for latest data.
 - Firebase for Authentication.
 - OpenAI API integrated to give movie suggestions according to mood of the user.
 - Redux for state management.
+- Used React Hooks and Custom hooks to make more reusable and modular code
 
 
 #### BlueMind Client Portal 💼
