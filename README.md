@@ -21,7 +21,7 @@ Experienced Sr. Software Development Analyst at Deloitte with expertise in Javas
 - Designed a visually stunning Shimmer UI and implemented features like cart, restaurant menu, and search filters.
 - Equipped with fallback APIs
 
-#### [NetflixGPT](https://netflix-lleax0q89-sriyansh-jains-projects.vercel.app/) 🎬
+#### [NetflixGPT](https://netflixgptnew.vercel.app/) 🎬
 - Movie app (Netflix clone) developed with React, Tailwind CSS, Redux and Firebase.
 - Utilized live TMDB API for latest data.
 - Firebase for Authentication.
