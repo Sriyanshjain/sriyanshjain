@@ -15,13 +15,13 @@ Experienced Sr. Software Development Analyst at Deloitte with expertise in Javas
 
 ### Projects 🚀
 
-#### [MunchMate](https://swiggyclonesriyansh.vercel.app/) 🍔
+#### [MunchMate](https://swiggyclonesriyansh.vercel.app/)  ⬅ (check it out here)🍔
 - Food delivery app (Swiggy clone) developed with React, Tailwind CSS, and Redux.
 - Utilized live Swiggy API for location-aware features.
 - Designed a visually stunning Shimmer UI and implemented features like cart, restaurant menu, and search filters.
 - Equipped with fallback APIs
 
-#### [NetflixGPT](https://netflixgptnew.vercel.app/) 🎬
+#### [NetflixGPT](https://netflixgptnew.vercel.app/) ⬅ (check it out here) 🎬
 - Movie app (Netflix clone) developed with React, Tailwind CSS, Redux and Firebase.
 - Utilized live TMDB API for latest data.
 - Firebase for Authentication.
