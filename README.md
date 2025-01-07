@@ -66,7 +66,7 @@ Experienced Sr. Software Development Analyst at Deloitte with expertise in Javas
 - Winner of Hackslam: Deloitte's firmwide hackathon.
 - Applause Award: Exceptional performance in the 5.5 release.
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/JacobLinCool)
+![LeetCode Stats](https://leetcard.jacoblin.cool/sriyanshjain1997?theme=light&font=Padauk)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sriyanshjain&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/sriyansh-jain-35b876157/) or [GitHub](https://github.com/Sriyanshjain)! 🌐
