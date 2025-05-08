@@ -55,7 +55,7 @@ Experienced Sr. Software Development Analyst at Deloitte with expertise in Javas
 
 ## Certifications 🏆
 
-- Azure OpenAI | Microsoft
+- Azure AI Fundamentals | Microsoft
 - Azure Fundamentals | Microsoft
 - Certified SAFe 5 Practitioner | Scaled Agile Framework
 - Spring Boot For Beginners | Amigoscode
